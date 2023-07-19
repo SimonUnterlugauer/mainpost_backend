@@ -13,3 +13,4 @@ Falls neue Packages installiert werden -> einfach in die requirements.txt aufneh
 
 - Funktionalität ist in den views Folders (am besten iwan nochmal umbennen habe das am Anfang nicht gerallt wie FastApi funktioniert)
 - Frontend Code ist in den template Files 
+- Folder Data enthält die Daten die wir benötigen (Format muss noch geklärt werden -> am besten easy Json??)

@@ -6,7 +6,8 @@ import tensorflow as tf
 app = FastAPI()
 templates = Jinja2Templates(directory="templates")
 
-from views import home, about
+from views.home import home
+from views.content import about
 # Router für die Home-View hinzufügen
 app.include_router(home.router)
 

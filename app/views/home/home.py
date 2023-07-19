@@ -7,5 +7,6 @@ router = APIRouter()
 
 @router.get("/")
 async def home(request: Request):
-    context = {"request": request, "name": "Alice"}
+    array = ["Person 1", "Person 2", "Person 3", "Person 4"]
+    context = {"request": request, "name": "Alice", "employee_array": array}
     return templates.TemplateResponse("index.html", context)
