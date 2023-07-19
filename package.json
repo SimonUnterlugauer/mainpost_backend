@@ -1,0 +1,9 @@
+{
+    "name": "my_fastapi_app",
+    "version": "1.0.0",       
+    "description": "Meine FastAPI-Anwendung", 
+    "dependencies": {        
+      "express": "^4.17.1"   
+    }
+  }
+  

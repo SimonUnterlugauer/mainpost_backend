@@ -2,6 +2,8 @@ version: "3.8"
 services:
   fastapi:
     build:
-      context: ./my_fastapi_app
+      context: .
     ports:
       - "8000:8000"
+    volumes:
+      - ./app:/app
