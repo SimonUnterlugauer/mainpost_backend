@@ -19,17 +19,12 @@ COPY package-lock.json /app/package-lock.json
 # Installieren der erforderlichen python Abhängigkeiten
 COPY requirements.txt /app/requirements.txt
 
-
 # Installieren Sie die erforderlichen npm-Abhängigkeiten
 RUN apt-get update && apt-get install -y npm
 RUN npm install 
 
 # Installieren Sie die erforderlichen Python-Abhängigkeiten
 RUN pip install -r /app/requirements.txt
-
-# Installieren Sie weitere npm-Pakete, wenn nötig
-# Hier ein Beispiel, um tailwindcss zu installieren
-RUN npm install tailwindcss
 
 # Starten Sie die FastAPI-Anwendung mit Uvicorn und aktivieren Sie das Live-Reload
 CMD ["uvicorn", "app:app", "--host", "0.0.0.0", "--port", "8000", "--reload"]
