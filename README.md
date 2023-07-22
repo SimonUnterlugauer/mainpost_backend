@@ -18,4 +18,6 @@ Falls neue Packages installiert werden -> einfach in die requirements.txt aufneh
 =======
 # mainpost_backend
 Das ist das Fast Api Backend dockerized für die Mainpost Applikation
+
+Ordnerstruktur: Abwandlung des Coockiecutter templates (https://towardsdatascience.com/structuring-your-machine-learning-project-with-mlops-in-mind-41a8d65987c9)
 >>>>>>> 1adbaae0ee8127f5167989914b7a85a3589aa81a
