@@ -1,4 +1,3 @@
-# views/home.py
 from fastapi import APIRouter, Request
 from fastapi.responses import JSONResponse
 
@@ -40,5 +39,5 @@ employees_data = {
 }
 
 @router.get("/employees")
-async def home(request: Request):
+async def employees(request: Request):
     return JSONResponse(content=employees_data)
