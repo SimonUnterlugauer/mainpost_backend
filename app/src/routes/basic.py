@@ -23,3 +23,8 @@ def df_to_json(df):
 async def employee_data():
     df = pd.read_csv('./data/processed/absences_daily.csv')
     return df_to_json(df)
+
+@router.get('/emp')
+async def employee_data():
+    df = pd.read_csv('./data/processed/absences_daily.csv')
+    return df_to_json(df)

@@ -20,8 +20,8 @@ COPY package-lock.json /app/package-lock.json
 COPY requirements.txt /app/requirements.txt
 
 # Installieren Sie die erforderlichen npm-Abhängigkeiten
-RUN apt-get update && apt-get install -y npm
-RUN npm install 
+#RUN apt-get update && apt-get install -y npm
+#RUN npm install 
 
 # Installieren Sie die erforderlichen Python-Abhängigkeiten
 RUN pip install -r /app/requirements.txt
