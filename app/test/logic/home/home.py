@@ -42,3 +42,4 @@ employees_data = {
 @router.get("/employees")
 async def home(request: Request):
     return JSONResponse(content=employees_data)
+
