@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/jakob/Desktop/main_projektt/mainpost_backend/app/notebooks/Jakob/mlruns/232861790685615975/36fc25db220e4d858ddc852dcdd41bfe/artifacts
+end_time: 1691148685756
+entry_point_name: ''
+experiment_id: '232861790685615975'
+lifecycle_stage: active
+run_id: 36fc25db220e4d858ddc852dcdd41bfe
+run_name: enchanting-owl-973
+run_uuid: 36fc25db220e4d858ddc852dcdd41bfe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691148685701
+status: 4
+tags: []
+user_id: unknown
