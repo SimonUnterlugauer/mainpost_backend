@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/jakob/Desktop/main_projektt/mainpost_backend/app/notebooks/Jakob/mlruns/232861790685615975/ace94e627072488182b6a663de90201e/artifacts
+end_time: 1691134879567
+entry_point_name: ''
+experiment_id: '232861790685615975'
+lifecycle_stage: active
+run_id: ace94e627072488182b6a663de90201e
+run_name: chill-ray-378
+run_uuid: ace94e627072488182b6a663de90201e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691134869740
+status: 3
+tags: []
+user_id: unknown
