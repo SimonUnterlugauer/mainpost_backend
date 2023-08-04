@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/jakob/Desktop/main_projektt/mainpost_backend/app/notebooks/Jakob/mlruns/0/8bac584fd2f44fe1a8d28dea0c6702a8/artifacts
+end_time: 1691134867667
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8bac584fd2f44fe1a8d28dea0c6702a8
+run_name: adorable-toad-996
+run_uuid: 8bac584fd2f44fe1a8d28dea0c6702a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691134848696
+status: 3
+tags: []
+user_id: jakob
