@@ -1,0 +1,25 @@
+artifact_path: model
+flavors:
+  python_function:
+    data: model.xgb
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.xgboost
+    python_version: 3.9.13
+  xgboost:
+    code: null
+    data: model.xgb
+    model_class: xgboost.sklearn.XGBRegressor
+    model_format: xgb
+    xgb_version: 1.7.6
+mlflow_version: 2.5.0
+model_uuid: 98bbdb87babe4cc49b4407b7f86b9258
+run_id: 8a08d9e686bc4586b48895b0f09af2d8
+signature:
+  inputs: '[{"type": "long", "name": "dayofweek"}, {"type": "long", "name": "quarter"},
+    {"type": "long", "name": "month"}, {"type": "long", "name": "year"}, {"type":
+    "long", "name": "dayofyear"}, {"type": "long", "name": "dayofmonth"}, {"type":
+    "long", "name": "weekofyear"}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float32", "shape": [-1]}}]'
+utc_time_created: '2023-08-04 08:44:12.269837'

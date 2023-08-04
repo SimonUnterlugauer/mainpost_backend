@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/f4ef5ed8835042f98584e099171f703d/artifacts
+end_time: 1691141244092
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f4ef5ed8835042f98584e099171f703d
+run_name: zealous-horse-81
+run_uuid: f4ef5ed8835042f98584e099171f703d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691141237665
+status: 4
+tags: []
+user_id: jakob

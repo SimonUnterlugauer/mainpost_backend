@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/jakob/Desktop/main_projektt/mainpost_backend/app/notebooks/Jakob/mlruns/232861790685615975/961bbb38f6634ceab90917fcfcf9fec9/artifacts
+end_time: 1691139128623
+entry_point_name: ''
+experiment_id: '232861790685615975'
+lifecycle_stage: active
+run_id: 961bbb38f6634ceab90917fcfcf9fec9
+run_name: capricious-doe-494
+run_uuid: 961bbb38f6634ceab90917fcfcf9fec9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691139123822
+status: 3
+tags: []
+user_id: unknown
