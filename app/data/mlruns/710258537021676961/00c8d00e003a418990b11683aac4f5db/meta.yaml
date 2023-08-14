@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/domin/Documents/Python Projects/mainpost_backend/app/notebooks/Domi/../../data/mlruns/710258537021676961/00c8d00e003a418990b11683aac4f5db/artifacts
+end_time: 1691436484396
+entry_point_name: ''
+experiment_id: '710258537021676961'
+lifecycle_stage: active
+run_id: 00c8d00e003a418990b11683aac4f5db
+run_name: rebellious-rat-757
+run_uuid: 00c8d00e003a418990b11683aac4f5db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691436484241
+status: 4
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/domin/Documents/Python Projects/mainpost_backend/app/notebooks/Domi/../../data/mlruns/576473734345768572/f579904dac4049f89bfc9440e59d9f80/artifacts
+end_time: 1691433403809
+entry_point_name: ''
+experiment_id: '576473734345768572'
+lifecycle_stage: active
+run_id: f579904dac4049f89bfc9440e59d9f80
+run_name: blushing-auk-458
+run_uuid: f579904dac4049f89bfc9440e59d9f80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691433391260
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,18 @@
+artifact_path: model
+flavors:
+  lightgbm:
+    code: null
+    data: model.pkl
+    lgb_version: 4.0.0
+    model_class: darts.models.forecasting.lgbm.LightGBMModel
+  python_function:
+    data: model.pkl
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.lightgbm
+    python_version: 3.9.17
+mlflow_version: 2.5.0
+model_uuid: 331a6166c3a040a29c82f4cfd58fe990
+run_id: 2311c4d215a04b8e9d9d9f3fa491adaf
+utc_time_created: '2023-08-07 19:30:06.839137'

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/domin/Documents/Python Projects/mainpost_backend/app/notebooks/Domi/../../data/mlruns/710258537021676961/28bc6d11516c4e488aa4bb2e48446f75/artifacts
+end_time: 1691436582142
+entry_point_name: ''
+experiment_id: '710258537021676961'
+lifecycle_stage: active
+run_id: 28bc6d11516c4e488aa4bb2e48446f75
+run_name: thundering-mouse-439
+run_uuid: 28bc6d11516c4e488aa4bb2e48446f75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691436582000
+status: 4
+tags: []
+user_id: unknown
