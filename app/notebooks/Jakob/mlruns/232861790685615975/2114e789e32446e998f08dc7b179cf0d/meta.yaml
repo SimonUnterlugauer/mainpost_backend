@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/jakob/Desktop/main_projektt/mainpost_backend/app/notebooks/Jakob/mlruns/232861790685615975/2114e789e32446e998f08dc7b179cf0d/artifacts
+end_time: 1691142932759
+entry_point_name: ''
+experiment_id: '232861790685615975'
+lifecycle_stage: active
+run_id: 2114e789e32446e998f08dc7b179cf0d
+run_name: traveling-asp-57
+run_uuid: 2114e789e32446e998f08dc7b179cf0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691142925180
+status: 3
+tags: []
+user_id: unknown

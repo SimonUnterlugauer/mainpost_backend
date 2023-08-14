@@ -1,0 +1,10 @@
+digest: c7fa22b7
+name: dataset
+profile: '{"num_rows": 242, "num_elements": 1694}'
+schema: '{"mlflow_colspec": [{"type": "long", "name": "dayofweek"}, {"type": "long",
+  "name": "quarter"}, {"type": "long", "name": "month"}, {"type": "long", "name":
+  "year"}, {"type": "long", "name": "dayofyear"}, {"type": "long", "name": "dayofmonth"},
+  {"type": "long", "name": "weekofyear"}]}'
+source: '{"tags": {"mlflow.user": "jakob", "mlflow.source.name": "C:\\Users\\jakob\\AppData\\Roaming\\Python\\Python39\\site-packages\\ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

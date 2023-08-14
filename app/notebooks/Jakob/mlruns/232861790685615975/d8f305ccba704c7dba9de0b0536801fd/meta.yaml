@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/jakob/Desktop/main_projektt/mainpost_backend/app/notebooks/Jakob/mlruns/232861790685615975/d8f305ccba704c7dba9de0b0536801fd/artifacts
+end_time: 1691149980629
+entry_point_name: ''
+experiment_id: '232861790685615975'
+lifecycle_stage: active
+run_id: d8f305ccba704c7dba9de0b0536801fd
+run_name: suave-snail-447
+run_uuid: d8f305ccba704c7dba9de0b0536801fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691149974320
+status: 3
+tags: []
+user_id: unknown

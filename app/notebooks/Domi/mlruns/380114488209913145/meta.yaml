@@ -1,0 +1,6 @@
+artifact_location: file:///c:/Users/jakob/Desktop/main_projektt/mainpost_backend/app/notebooks/Domi/mlruns/380114488209913145
+creation_time: 1691139359562
+experiment_id: '380114488209913145'
+last_update_time: 1691139359562
+lifecycle_stage: active
+name: LightGBMModel
