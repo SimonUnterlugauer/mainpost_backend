@@ -1,0 +1,11 @@
+service: "service.py:single_ts_svc"
+labels:
+    owner: Projektseminar_team
+    stage: dev
+include:
+- "*.py"
+python:
+ packages:
+  - mlflow
+  - numpy
+  - bentoml.io 

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/jeany/PythonCode/Projektseminar/mainpost_backend/app/notebooks/Domi/mlruns/985497283900259339/1bb7d01fa8fc4bf8b8c83d9634ff93c7/artifacts
+end_time: 1690979614745
+entry_point_name: ''
+experiment_id: '985497283900259339'
+lifecycle_stage: active
+run_id: 1bb7d01fa8fc4bf8b8c83d9634ff93c7
+run_name: angry-robin-901
+run_uuid: 1bb7d01fa8fc4bf8b8c83d9634ff93c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690979607073
+status: 3
+tags: []
+user_id: unknown

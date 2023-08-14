@@ -1,0 +1,6 @@
+artifact_location: file:///c:/Users/jeany/PythonCode/Projektseminar/mainpost_backend/app/notebooks/Domi/mlruns/985497283900259339
+creation_time: 1690979607068
+experiment_id: '985497283900259339'
+last_update_time: 1690979607068
+lifecycle_stage: active
+name: LightGBMModel
